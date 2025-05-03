@@ -1,0 +1,6 @@
+[2025-03-25 13:53:33] You: how is the weather in chennai today
+[2025-03-25 13:53:34] Chatbot: Invalid location or API issue
+[2025-03-25 13:53:44] You: how is the weather today
+[2025-03-25 13:53:44] Chatbot: Invalid location or API issue
+[2025-03-25 13:53:56] You: can i go to play cricket today
+[2025-03-25 13:53:57] Chatbot: Invalid location or API issue
